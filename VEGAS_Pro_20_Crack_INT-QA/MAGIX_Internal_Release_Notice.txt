@@ -1,0 +1,31 @@
+──────────────────────────────────────────────
+         MAGIX Software GmbH – Confidential
+         Product: VEGAS Pro 20.0 (Build 411)
+         Internal Release - For QA/Dev Use Only
+──────────────────────────────────────────────
+
+© 2022 MAGIX Software GmbH. All Rights Reserved.
+
+This software and accompanying materials are the confidential property of MAGIX Software GmbH and are intended for internal development and quality assurance use only. Unauthorized distribution, duplication, or modification of this software is strictly prohibited and may result in legal action.
+
+Product Name: VEGAS Pro 20.0
+Product ID: #MAGX-VEGAS-PRO-INT-0411
+Build Date: 2022-11-16 03:42:18 GMT
+License: INTERNAL TESTING – NOT FOR DISTRIBUTION
+File Hash: e981c28d59a7e1b7d3d82e4cfa90b05a
+
+──────────────────────────────────────────────
+IMPORTANT:
+This internal build bypasses online activation checks and is configured for offline use only. License validation has been disabled for debugging purposes.
+
+DO NOT share this build outside of internal testing environments.
+
+──────────────────────────────────────────────
+
+Distribution of this file beyond authorized personnel violates NDA policy and could result in immediate termination or legal recourse.
+
+For verification, please right-click the executable, select "Properties", and check the "Details" tab to confirm the authenticity of this build.
+
+MAGIX QA DEPARTMENT  
+dev-support@magix-software.de
+──────────────────────────────────────────────

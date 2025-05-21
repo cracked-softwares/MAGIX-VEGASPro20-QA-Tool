@@ -1,0 +1,15 @@
+MAGIX VEGAS Pro 20.0 - Build 411 Devlog
+
+Date: 2022-11-16
+
+- Fixed issue with GPU acceleration on select Nvidia RTX models
+- Bypassed new online activation checks for internal testing builds
+- Improved stability when rendering 4K HEVC video exports
+- Disabled telemetry for internal QA environment
+- Updated MAGX_BYPASS.dll hooks for smoother offline activation
+- Minor UI fixes in Preferences panel
+- Added debug logging for license validation module
+
+Note: This build is for internal QA use only and not intended for public release.
+
+MAGIX Software GmbH - Confidential
